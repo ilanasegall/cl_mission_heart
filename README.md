@@ -1,2 +1,2 @@
 to run:
-install scrapy
+download selenium firefox webdriver and add to system path
