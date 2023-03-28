@@ -1,0 +1,2 @@
+to run:
+install scrapy
